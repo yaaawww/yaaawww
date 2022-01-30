@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @G1g4lo.
+- 👀 I’m interested in web.
+- 🌱 I’m currently learning Java.
