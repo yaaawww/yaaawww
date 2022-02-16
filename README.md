@@ -1,6 +1,6 @@
 # About
 - 👋 Hi, I’m @G1g4lo.
-- 👀 ~~I’m interested in web.~~ I am interesting in creation.
+- 👀 ~~I’m interested in web.~~ I am interested in creation.
 - Myblog: https://www.waysoahc.xyz/
 
 ## Belief
