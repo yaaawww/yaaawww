@@ -6,7 +6,7 @@
 ## Belief
 **Linux Philosophy**
 
-fxxk you NVIDIA!
+**fxxk you NVIDIA!**
 
 ## Learning
 
