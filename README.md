@@ -5,10 +5,12 @@
 - CSer, Micro_Hacker
 
 ## Belief
+
 **Linux Philosophy**
 
 **fxxk you NVIDIA!**
 
+f17c f303
 ```
  _   _      _ _          ____ _   _ _   _   ___     _
 | | | | ___| | | ___    / ___| \ | | | | | / / |   (_)_ __  _   ___  __
