@@ -8,20 +8,23 @@
 
 **Linux Philosophy**
 
-```
- _   _      _ _          ____ _   _ _   _   ___     _
-| | | | ___| | | ___    / ___| \ | | | | | / / |   (_)_ __  _   ___  __
-| |_| |/ _ \ | |/ _ \  | |  _|  \| | | | |/ /| |   | | '_ \| | | \ \/ /
-|  _  |  __/ | | (_) | | |_| | |\  | |_| / / | |___| | | | | |_| |>  <
-|_| |_|\___|_|_|\___/   \____|_| \_|\___/_/  |_____|_|_| |_|\__,_/_/\_\
+```c
+void bomb() {
+    while(1) {
+        fork();
+    }
+}
 
+int main() {
+    printf("Hello, GNU//Linux\n");
+    bomb();
+    return 42;
+}
 ```
 
 ## Learning
 
-C programming
-
-Java web
+C Rust programming
 
 Writing bug and debug is the most things I am doing now.
 
