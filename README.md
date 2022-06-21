@@ -1,8 +1,7 @@
 # About
 - 👋 Hi, I’m @G1g4lo.
-- 👀 ~~I’m interested in web.~~ return 42;
-- Myblog: https://www.waysoahc.xyz/
-- CSer, Micro_Hacker
+- 📘 Myblog: https://www.waysoahc.xyz/
+- 👨‍💻 CSer, Micro_Hacker
 
 ## Belief
 
