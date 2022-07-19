@@ -6,6 +6,7 @@
 ## Belief
 
 **Linux Philosophy**
+**Suckless Philosophy**
 
 ```c
 void bomb() {
