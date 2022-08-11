@@ -1,6 +1,6 @@
 # About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=dracula"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=dracula" width=45% height=45%/>
 
 ```c
 #include <stdio.h>
