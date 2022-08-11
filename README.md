@@ -1,32 +1,28 @@
 # About
-- 👋 Hi, I’m @G1g4lo.
-- 📘 Myblog: https://www.waysoahc.xyz/
-- 👨‍💻 CSer, Micro_Hacker
 
-## Belief
-
-- **Linux Philosophy**
-
-- **Suckless Philosophy**
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=dracula"/>
 
 ```c
-void bomb() {
+#include <stdio.h>
+#include <unistd.h>
+
+static char *info = "👨‍💻 CSer, Micro_Hacker";
+static char *blog = "📘 https://www.waysoahc.xyz/"
+static char *language[2] = {"English", "Chinese"};
+static char *PL[7] 
+= {"C". "C++", "Assembly", "Java", "Rust", "Haskell", "Python"};
+
+void 
+bomb() {
     while(1) {
         fork();
     }
 }
 
-int main() {
+int 
+main() {
     printf("Hello, GNU//Linux\n");
     bomb();
     return 42;
 }
 ```
-
-## Learning
-
-C Rust programming
-
-Writing bug and debug is the most things I am doing now.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
