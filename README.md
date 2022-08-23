@@ -9,18 +9,9 @@ static char *blog = "📘 https://www.waysoahc.xyz/"
 static char *language[2] = {"English", "Chinese"};
 static char *PL[7] = {"C". "C++", "Assembly", "Java", "Rust", "Haskell", "Python"};
 
-void 
-bomb() {
-    while(1) {
-        fork();
-    }
-}
-
 int 
 main() {
-    printf("Hello, GNU//Linux\n");
-    bomb();
-    return 42;
+
 }
 ```
 
