@@ -2,7 +2,6 @@
 
 ```c
 #include <stdio.h>
-#include <unistd.h>
 
 static char *info = "👨‍💻 CSer, Micro_Hacker";
 static char *blog = "📘 https://www.waysoahc.xyz/"
