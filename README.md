@@ -1,5 +1,7 @@
 # About
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=dracula"/>
+
 ```c
 #include <stdio.h>
 
@@ -11,4 +13,4 @@ int
 main() {}
 ```
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=dracula"/>
+
