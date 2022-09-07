@@ -7,7 +7,7 @@
 
 static char *blog = "📘 https://www.waysoahc.xyz/"
 static char *language[2] = {"English", "Chinese"};
-static char *PL[7] = {"C". "C++", "Assembly", "Java", "Rust", "Haskell", "Python"};
+static char *PL[7] = {"C/C++", "Rust"};
 
 int 
 main() {}
