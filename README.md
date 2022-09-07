@@ -3,7 +3,6 @@
 ```c
 #include <stdio.h>
 
-static char *info = "👨‍💻 CSer, Micro_Hacker";
 static char *blog = "📘 https://www.waysoahc.xyz/"
 static char *language[2] = {"English", "Chinese"};
 static char *PL[7] = {"C". "C++", "Assembly", "Java", "Rust", "Haskell", "Python"};
