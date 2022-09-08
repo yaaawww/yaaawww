@@ -1,6 +1,6 @@
 # Hi there✨
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=dracula"/>
+<img width=45% align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=dracula"/>
 
 ```c
 #include <stdio.h>
