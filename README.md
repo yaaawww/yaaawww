@@ -9,8 +9,10 @@ static char *blog = "📘 https://www.waysoahc.xyz/"
 static char *language[2] = {"English", "Chinese"};
 static char *PL[2] = {"C/C++", "Rust"};
 
-int 
-main() {}
+int
+main() {
+  return 42;
+}
 ```
 
 
