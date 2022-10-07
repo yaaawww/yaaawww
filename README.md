@@ -12,6 +12,6 @@ fn be_stronger(ability: f64) -> Result<f64, Error> {
 
 fn main() -> f64 {
   println!("{}", String::from("I want to be stronger!"));
-  be_stronger(1.0000000000000000000000000000001).unwrap()
+  be_stronger(1.000000000000000000000000000001).unwrap()
 }
 ```
