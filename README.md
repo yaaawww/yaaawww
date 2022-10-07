@@ -6,9 +6,9 @@
 ```rust
 fn be_stronger(ability: f64) -> Result<f64, Error> {
   if is_saikyo(ability) {
-    return ability;
+    return Ok(ability);
   }
-  Ok(be_stronger(learning(ability)))
+  be_stronger(learning(ability)
 }
 
 fn main() -> f64 {
