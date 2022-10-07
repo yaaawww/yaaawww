@@ -8,7 +8,7 @@ fn be_stronger(ability: f64) -> Result<f64, Error> {
   if is_saikyo(ability) {
     return Ok(ability);
   }
-  be_stronger(learning(ability)
+  be_stronger(learning(ability))
 }
 
 fn main() -> f64 {
