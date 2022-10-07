@@ -1,4 +1,5 @@
-# Hi there✨
+# Hi there ✨
+<p align="middle">Using primitives, combimations and abstractions, I can create all the universe.</p>
 
 <img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=github_dark"/>
 
@@ -15,3 +16,4 @@ fn main() -> f64 {
   be_stronger(1.000000000000000000000000000001).unwrap()
 }
 ```
+
