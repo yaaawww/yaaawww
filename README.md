@@ -2,17 +2,11 @@
 
 <img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=github_dark"/>
 
-```c
-#include <stdio.h>
-
-static char *blog = "📘 https://www.waysoahc.xyz/"
-static char *language[2] = {"English", "Chinese"};
-static char *PL[2] = {"C/C++", "Rust"};
-
-int
-main() {
-  return 42;
+```rust
+fn be_stronger(ability: f64) -> Result<f64, Error> {
+  if is_saikyo(ability) {
+    return ability;
+  }
+  Ok(be_stronger(learning(ability)))
 }
 ```
-
-
