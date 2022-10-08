@@ -1,5 +1,5 @@
 # Hi there ✨
-<p align="middle">Using primitives, combimations and abstractions, I can create all the universe.</p>
+<p align="middle"><strong>Using primitives, combimations and abstractions, I can create all the universe.</strong></p>
 
 <img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=Jacen-cpu&show_icons=true&theme=github_dark"/>
 
