@@ -12,7 +12,7 @@ fn be_stronger(ability: f64) -> Result<f64, Error> {
 }
 
 fn main() -> f64 {
-  println!("{}", String::from("I want to be stronger!"));
+  println!("{}", String::from("Position Zero!"));
   be_stronger(1.0).unwrap()
 }
 ```
