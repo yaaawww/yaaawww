@@ -16,6 +16,5 @@ fn main() -> f64 {
   be_stronger(1.0).unwrap()
 }
 ```
-<img width=30% align="right" src="https://user-images.githubusercontent.com/71179161/217497688-0bf919f4-273a-4235-93cb-c00d164b3a2e.jpg"/>
 
 ![Metrics](/github-metrics.svg)
